@@ -1,6 +1,5 @@
 
 
-```markdown
 # MNIST Dataset Classifier (Digit "3" vs Others)
 
 Este proyecto tiene como objetivo preprocesar y visualizar el dataset MNIST, específicamente para clasificar el dígito "3" frente a otros dígitos. El código permite cargar el dataset, dividirlo en conjuntos de entrenamiento y prueba, y luego crear un directorio organizado con imágenes del número "3" y otros dígitos para su posterior uso en tareas de clasificación.
@@ -104,7 +103,7 @@ plot_images(train_3)
 
 Este código es útil para crear un dataset organizado del dígito "3" y otros números del conjunto MNIST, y para realizar visualizaciones rápidas de las imágenes contenidas en el dataset. Se puede utilizar como base para entrenar modelos de clasificación de dígitos.
 
-```
+
 
 ### Explicación del **README**:
 1. **Propósito del Proyecto**: Explica qué hace el código y por qué se crea un dataset organizado con los números "3" y otros números.
